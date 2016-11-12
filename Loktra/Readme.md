@@ -30,7 +30,7 @@ Environment Setup (for windows):
 1.	Make sure JDK is installed and %JAVA_HOME% is set to it.
 2.	Create a folder named “Project” in any directory.
 3. 	Copy paste the following file in this folder
-⋅⋅*	Loktra.jar
+⋅⋅1. Loktra.jar
 
 4.	Open command prompt to the path “/Project”.
 5.	Run below commands to run
