@@ -27,16 +27,15 @@ For example, if we were trying to find the 7 letter string where `hash(the_strin
 ## Instructions to run the program
 
 Environment Setup (for windows):
-1. Make sure JDK is installed and %JAVA_HOME% is set to it.
-2. Create a folder named “Project” in any directory.
-3. Copy paste the following file in this folder
+1 Make sure JDK is installed and %JAVA_HOME% is set to it.
+2 Create a folder named “Project” in any directory.
+3 Copy paste the following file in this folder
   * Loktra.jar
-
-4. Open command prompt to the path “/Project”.
-5. Run below commands to run
+4 Open command prompt to the path “/Project”.
+5 Run below commands to run
   *	“java -jar Loktra.jar 680131659347”
   *	“java -jar Loktra.jar”
-6. Run below commands to run the Unit Test Cases
+6 Run below commands to run the Unit Test Cases
   *	“java -cp Loktra.jar LoktraTest.ReverseHashProblemTestsRun.java”
 
 
