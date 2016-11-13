@@ -22,3 +22,22 @@ Int64 hash (String s) {
 ```
 
 For example, if we were trying to find the 7 letter string where `hash(the_string)` was `680131659347`, the answer would be "leepadg".
+
+
+## Instructions to run the program
+
+1. Make sure JDK is installed and %JAVA_HOME% is set to it.
+2. Create a folder named “Project” in any directory.
+3. Copy paste the following file in this folder
+ * Loktra.jar
+4. Open command prompt to the path “/Project”.
+5. Run below commands to run
+ *	“java -jar Loktra.jar 680131659347”
+ *	“java -jar Loktra.jar”
+6. Run below commands to run the Unit Test Cases
+ *	“java -cp Loktra.jar LoktraTest.ReverseHashProblemTestsRun.java”
+
+
+
+
+
