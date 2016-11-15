@@ -32,10 +32,10 @@ Implement a robust text scraper that will connect to a page on www.shopping.com,
 4. Sample run commands
  * count http://www.shopping.com/products?KW=chair
   * to get total number of results on the page
- * result http://www.shopping.com/products~PG-<number>?KW=table\"
-  * to get all results
+ * result http://www.shopping.com/products~PG-<number>?KW=table"
+  ** to get all results
  * quit
-  * quits the application
+  ** quits the application
 
 
 
